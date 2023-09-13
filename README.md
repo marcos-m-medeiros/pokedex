@@ -15,11 +15,11 @@ Before you start using the application, make sure you have the following prerequ
 ## Installation and Usage
 1. Clone or download this repository to your computer:
 
-`git clone https://github.com/your-username/pokedex-web-app.git`
+`git clone https://github.com/your-username/pokedex.git`
 
 2. Navigate to the project folder:
 
-`cd pokedex-web-app`
+`cd pokedex`
 
 3. Open the index.html file in your web browser:
 
