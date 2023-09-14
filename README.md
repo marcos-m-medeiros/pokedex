@@ -1,5 +1,5 @@
 # PokéDex
-[PokeDex Screenshot]
+![pokedex-gif](./images/pokedex.gif)
 
 This is a simple web project of a PokeDex that allows users to view information about different Pokémons. The application uses basic web technologies, including HTML, CSS, and JavaScript, and retrieves Pokémon data through the **[Pokémon API](https://pokeapi.co/).**
 
